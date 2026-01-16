@@ -12,4 +12,4 @@ Jessica Monahan
 ## Date
 01/16/2026
 
-The rendered `Quarto` file can be found [here](/doc/reprodev-exercise_quarto.html)
+The rendered `Quarto` file can be found [here](/doc/my-manuscript.html)
