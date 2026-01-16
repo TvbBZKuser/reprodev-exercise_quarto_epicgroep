@@ -3,8 +3,13 @@ The goal of my-reproducible-manuscript is to create a structured and documented 
 
 ## Authors
 Thomas van Bavel
+
 Eva Janssen
+
 Jessica Monahan
+
 
 ## Date
 01/16/2026
+
+The rendered `Quarto` file can be found [here](/doc/reprodev-exercise_quarto.html)
